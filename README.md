@@ -17,9 +17,9 @@ Happy Coding!!
 
 You can follow my journey and also see what else I'm creating below...
 
-<b>[Twitter](https://twitter.com/emanueifrazier)</b> @EmanuelFrazier
+<b>[Twitter](https://twitter.com/Frvzier)</b> @Frvzier
 
-<b>[Dev.to](https://dev.to/digitalemanuel)</b> The best social site for ALL developers.
+<b>[Dev.to](https://dev.to/frvzier)</b> The best social site for ALL developers.
 
 <b>[Tech Blog](http://www.emanuelfrazier.tech)</b> Everything Development.
 
