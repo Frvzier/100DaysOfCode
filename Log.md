@@ -26,5 +26,5 @@ Also implemented the following selecotrs in the selectors exerciseyou can find b
 <span style="display:block;>![Star Selector](http://i65.tinypic.com/wjb69e.png)
 
 ### Project
-- [Selectors](/SelectorsExercise)
+- [Selectors](/selectors.css)
 
