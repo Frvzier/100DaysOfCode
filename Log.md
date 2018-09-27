@@ -13,10 +13,18 @@ Learned how to properly use attributes and values.
 
 ### Day 03 September 26, 2018
 ##### (Resources used: Colt Steele's Web Dev. Bootcamp (https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
-**Today's Progress**: Learned hthe basics of forms, validations and inputs. Utilized all three to create a demo form from scratch.
+**Today's Progress**: Learned the basics of forms, validations and inputs. Utilized all three to create a demo form from scratch.
 p.s if you view the project you will notice the difference from the actual code solution. 
 ### Project
 - [Form](/Form)
 
+### Day 04 September 27, 2018
+##### (Resources used: Colt Steele's Web Dev. Bootcamp (https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
+##### (Resources used: CSS colour names (http://colours.neilorangepeel.com/)
+**Today's Progress**: Began learning css, focusing primarily on element, id & class selectors.
+Also implemented the following selecotrs in the selectors exerciseyou can find below...
+<span style="display:block;>![Star Selector](http://i65.tinypic.com/wjb69e.png)
 
+### Project
+- [Selectors](/SelectorsExercise)
 
