@@ -23,7 +23,7 @@ p.s if you view the project you will notice the difference from the actual code 
 ##### (Resources used: CSS colour names (http://colours.neilorangepeel.com/)
 **Today's Progress**: Began learning css, focusing primarily on element, id & class selectors.
 Also implemented the following selecotrs in the selectors exerciseyou can find below...
-![Star Selector](http://i65.tinypic.com/wjb69e.png)
+<span style="display:block;text-align:center">![Star Selector](http://i65.tinypic.com/wjb69e.png)
 
 ### Project
 - [Selectors](/selectors.css)
