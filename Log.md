@@ -22,7 +22,7 @@ p.s if you view the project you will notice the difference from the actual code 
 ##### (Resources used: Colt Steele's Web Dev. Bootcamp (https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
 ##### (Resources used: CSS colour names (http://colours.neilorangepeel.com/)
 **Today's Progress**: Began learning css, focusing primarily on element, id & class selectors.
-Also implemented the following selecotrs in the selectors exerciseyou can find below...
+Also implemented the following selectors in the exercise you can find below...
 ### Project
 - [Selectors](/selectors.css)
 
