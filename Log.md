@@ -28,3 +28,9 @@ Also implemented the following selectors in the exercise you can find below...
 
 ![Star Selector](http://i65.tinypic.com/wjb69e.png)
 
+### Day 05 September 28, 2018
+##### (Resources used: Colt Steele's Web Dev. Bootcamp (https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
+**Today's Progress**: Learned HTML fonts/ font-attributes. Tested changing fonts using chrome developer tools.
+
+
+
