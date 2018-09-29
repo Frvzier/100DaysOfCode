@@ -9,7 +9,7 @@
 ### Day 02 September 25, 2018
 ##### (Resources used: Colt Steele's Web Dev. Bootcamp (https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
 **Today's Progress**: Completed an HTML quiz from http://w3schools.com
-Learned how to properly use attributes and values. 
+Learned how to properly utilize attributes and values. 
 
 ### Day 03 September 26, 2018
 ##### (Resources used: Colt Steele's Web Dev. Bootcamp (https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
