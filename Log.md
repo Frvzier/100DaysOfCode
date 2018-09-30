@@ -13,7 +13,7 @@ Learned how to properly utilize attributes and values.
 
 ### Day 03 September 26, 2018
 ##### (Resources used: Colt Steele's Web Dev. Bootcamp (https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
-**Today's Progress**: Learned the basics of forms, validations and inputs. Utilized all three to create a demo form from scratch.
+**Today's Progress**: Learned the basics of forms, validations and inputs. Utilized all three to create a form demo form from scratch.
 p.s if you view the project you will notice the difference from the actual code solution. 
 ### Project
 - [Form](/Form)
