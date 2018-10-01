@@ -5,9 +5,8 @@
 ##### (Resources used: Colt Steele's Web Dev. Bootcamp (https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
 
 **Today's Progress/What I learned**:
-- Learned basic and intermediate HTML
-    - Created a HTML table with multiple rows, images and links.
-
+- Learned basic and intermediate `HTML`
+    - Created a `table` with multiple rows, images and links.
 
 **Link to work:**
 - [PokeTable](/PokeTable)
@@ -31,7 +30,7 @@
 ##### (Resources used: Colt Steele's Web Dev. Bootcamp (https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
 
 **Today's Progress/What I learned**:
-- Learned the basics of forms, validations and inputs
+- Learned the basics of `forms` and `inputs`
   - Utilized all three to create a form demo form from scratch
     
 **Link to work:**
@@ -47,7 +46,7 @@
 ##### (Resources used: CSS colour names (http://colours.neilorangepeel.com/)
 
 **Today's Progress/What I learned**:
--  Began learning css, focusing primarily on element, id & class selectors
+-  Began learning `css`, focusing primarily on element, `id` & `class` selectors
     
 **Link to work:**
 - [Selectors](/selectors.css)
