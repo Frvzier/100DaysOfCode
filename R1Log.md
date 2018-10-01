@@ -2,7 +2,7 @@
 ## Progress Log
 
 ### R1D1: September 24, 2018
-##### (Resources used: Colt Steele's Web Dev. Bootcamp (https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
+##### (Resources used: [Colt Steele's Web Dev. Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
 
 **Today's Progress/What I learned**:
 - Learned basic and intermediate `HTML`
@@ -16,7 +16,7 @@
 ------------
 
 ### R1D2: September 25, 2018
-##### (Resources used: Colt Steele's Web Dev. Bootcamp (https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
+##### (Resources used: [Colt Steele's Web Dev. Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
 
 **Today's Progress/What I learned**:
 - Completed an HTML quiz from http://w3schools.com
@@ -27,7 +27,7 @@
 ------------
 
 ### R1D3: September 26, 2018
-##### (Resources used: Colt Steele's Web Dev. Bootcamp (https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
+##### (Resources used: [Colt Steele's Web Dev. Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
 
 **Today's Progress/What I learned**:
 - Learned the basics of `forms` and `inputs`
@@ -40,7 +40,7 @@
 
 ------------
 ### R1D4: September 27, 2018
-##### (Resources used: Colt Steele's Web Dev. Bootcamp (https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
+##### (Resources used: [Colt Steele's Web Dev. Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
 
 **Today's Progress/What I learned**:
 - Learned HTML fonts/ font-attributes
@@ -51,8 +51,8 @@
 ------------
 
 ### R1D5: September 28, 2018
-##### (Resources used: Colt Steele's Web Dev. Bootcamp (https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
-##### (Resources used: CSS colour names (http://colours.neilorangepeel.com/)
+##### (Resources used: [Colt Steele's Web Dev. Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
+##### (Resources used: [CSS colour names](http://colours.neilorangepeel.com/)
 
 **Today's Progress/What I learned**:
 -  Began learning `css`, focusing primarily on element, `id` & `class` selectors
@@ -64,9 +64,9 @@
 ------------
 
 ### R1D6: September 29, 2018
-##### (Resources used: Colt Steele's Web Dev. Bootcamp (https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
-##### (Resources used: Google Fonts (https://fonts.google.com/)
-##### (Resources used: CSS colour names (http://colours.neilorangepeel.com/)
+##### (Resources used: [Colt Steele's Web Dev. Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
+##### (Resources used: [Google Fonts](https://fonts.google.com/)
+##### (Resources used: [CSS colour names](http://colours.neilorangepeel.com/)
 
 
 **Today's Progress/What I learned**:
@@ -82,7 +82,7 @@
 ------------
 
 ### R1D7: September 30, 2018
-##### (Resources used: CSS in 30 Days (https://codecollege.ca/)
+##### (Resources used: [CSS30 Days](https://codecollege.ca/)
 
 **Today's Progress/What I learned**:
 - Learned Intermediate `CSS` practices
