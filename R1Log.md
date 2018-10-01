@@ -39,9 +39,18 @@
 **Thoughts:**  The feature to create custom form validations is really cool. Finally seeing how webpages come together as a whole.
 
 ------------
+### R1D4: September 27, 2018
+##### (Resources used: Colt Steele's Web Dev. Bootcamp (https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
 
+**Today's Progress/What I learned**:
+- Learned HTML fonts/ font-attributes
+- Tested changing fonts using chrome developer tools
+  
+**Thoughts:**  Chrome developer tools is great. Having the ability to see an elements syntaxs & able to manipulate the styles and preview the changes is good for testing custom styles quickly and efficiently.
 
-### R1D3: September 27, 2018
+------------
+
+### R1D3: September 28, 2018
 ##### (Resources used: Colt Steele's Web Dev. Bootcamp (https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
 ##### (Resources used: CSS colour names (http://colours.neilorangepeel.com/)
 
@@ -57,16 +66,19 @@
 
 ------------
 
-
-### R1D4: September 28, 2018
+### R1D3: September 29, 2018
 ##### (Resources used: Colt Steele's Web Dev. Bootcamp (https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
+##### (Resources used: Google Fonts (https://fonts.google.com/)
 ##### (Resources used: CSS colour names (http://colours.neilorangepeel.com/)
 
+
 **Today's Progress/What I learned**:
-- Learned HTML fonts/ font-attributes
-- Tested changing fonts using chrome developer tools
-  
+- Learned Intermediate `CSS` practices
+    - Created a Tic Tac Toe Board
+    - Created a Image Gallery
+    - Created a CSS Blog
+    
+**Link to work:**
 
-**Thoughts:**  Chrome developer tools is great. Having the ability to see an elements syntaxs & able to manipulate the styles and preview the changes is good for testing custom styles quickly and efficiently.
 
-------------
+**Thoughts:** 
