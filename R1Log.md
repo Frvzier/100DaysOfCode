@@ -27,7 +27,7 @@
 ------------
 
 ### R1D3: September 26, 2018
-##### (Resources used: [Colt Steele's Web Dev. Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
+##### Resources used: [Colt Steele's Web Dev. Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
 
 **Today's Progress/What I learned**:
 - Learned the basics of `forms` and `inputs`
