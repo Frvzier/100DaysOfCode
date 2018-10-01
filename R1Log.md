@@ -74,7 +74,7 @@
     
 **Link to work:**
 - [Tic Tac Toe](/TTTBoard)
-- [Image Board](/ImageBoard)
+- [Image Gallery](/ImageBlog)
 
 **Thoughts:** 
 Every element follows a "box model"; content, padding, border & margin are the four which we can manipulate. 
