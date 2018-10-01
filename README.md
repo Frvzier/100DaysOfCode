@@ -49,6 +49,19 @@ AMA / Follow to see what else im creating!
 | 3  | [Product Landing Page ](*add link) | October 18, 2018 |
 | 4  | [Techincal Documentation Page ](*add link) | October 25, 2018 |
 
+## Resources Used
+| No  |  Resource |  For  |
+| :------------: | ------------ | :------------: |
+| 1  | [Mozilla Developer Network ](https://developer.mozilla.org/en-US/) | Web standards & info on open web technologies  |
+| 2  | [W3Schools](https://www.w3schools.com/) | Beginner Tutorials  |
+| 3  | [FreeCodeCamp ](https://www.freecodecamp.org/) | Interactive learning platform, online community support |
+| 4  | [Code Signal ](https://codesignal.com) | Coding challenges |
+| 5  | [Team Treehouse](https://teamtreehouse.com/) | Beginner/Advanced Courses |
+| 6  | [Dev.to](https://dev.to/) | Online Community (Highly Recommend) |
+| 7  | [Codepen ](https://codepen.io/) | Showcasing projects |
+| 8  | [Edx](https://courses.edx.org/dashboard) | Class-style Learning  |
+| 9  | [Meetup ](https://www.meetup.com/) | Networking |
+
 ## Courses Completed
 
 | No  |  Course Title  |  Completed On |
@@ -62,15 +75,3 @@ AMA / Follow to see what else im creating!
 | :------------: | ------------ | :------------: |
 | 1  | [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=AGACAPG1NWBTAXTGDR9Z)  | -------------  |
 
-## Resources Used
-| No  |  Resource |  For  |
-| :------------: | ------------ | :------------: |
-| 1  | [Mozilla Developer Network ](https://developer.mozilla.org/en-US/) | Web standards & info on open web technologies  |
-| 2  | [W3Schools](https://www.w3schools.com/) | Beginner Tutorials  |
-| 3  | [FreeCodeCamp ](https://www.freecodecamp.org/) | Interactive learning platform, online community support |
-| 4  | [Code Signal ](https://codesignal.com) | Coding challenges |
-| 5  | [Team Treehouse](https://teamtreehouse.com/) | Beginner/Advanced Courses |
-| 6  | [Dev.to](https://dev.to/) | Online Community (Highly Recommend) |
-| 7  | [Codepen ](https://codepen.io/) | Showcasing projects |
-| 8  | [Edx](https://courses.edx.org/dashboard) | Class-style Learning  |
-| 9  | [Meetup ](https://www.meetup.com/) | Networking |
