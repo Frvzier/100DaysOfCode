@@ -65,9 +65,7 @@
 
 ### R1D6: September 29, 2018
 ##### Resources used: [Colt Steele's Web Dev. Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
-##### Resources used: [Google Fonts](https://fonts.google.com/)
-##### Resources used: [CSS colour names](http://colours.neilorangepeel.com/)
-
+##### Resources used: [Damien Hirst Official Site](https://www.http://www.damienhirst.com/)
 
 **Today's Progress/What I learned**:
 - Learned Intermediate `CSS` practices
@@ -76,13 +74,18 @@
     
 **Link to work:**
 [Tic Tac Toe](/TTTBoard)
+[Image Board](/ImageBoard)
 
 **Thoughts:** 
+Every element follows a "box model"; content, padding, border & margin are the four which we can manipulate. 
 
 ------------
 
 ### R1D7: September 30, 2018
 ##### Resources used: [CSS30 Days](https://codecollege.ca/)
+##### Resources used: [Google Fonts](https://fonts.google.com/)
+##### Resources used: [CSS colour names](http://colours.neilorangepeel.com/)
+
 
 **Today's Progress/What I learned**:
 - Learned Intermediate `CSS` practices
