@@ -18,7 +18,7 @@ Official Repo --> [100DaysOfCode](https://github.com/Kallaway/100-days-of-code "
 
 ------------
 
-You can interact with me and also see what else I'm creating on:
+AMA / Follow to see what else im creating!
 
 <b>[Twitter](https://twitter.com/Frvzier)</b>
 
