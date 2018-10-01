@@ -26,7 +26,7 @@
 
 ------------
 
-### Day 3: September 26, 2018
+### R1D3: September 26, 2018
 ##### (Resources used: Colt Steele's Web Dev. Bootcamp (https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
 
 **Today's Progress/What I learned**:
@@ -50,7 +50,7 @@
 
 ------------
 
-### R1D3: September 28, 2018
+### R1D5: September 28, 2018
 ##### (Resources used: Colt Steele's Web Dev. Bootcamp (https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
 ##### (Resources used: CSS colour names (http://colours.neilorangepeel.com/)
 
@@ -63,7 +63,7 @@
 
 ------------
 
-### R1D3: September 29, 2018
+### R1D6: September 29, 2018
 ##### (Resources used: Colt Steele's Web Dev. Bootcamp (https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
 ##### (Resources used: Google Fonts (https://fonts.google.com/)
 ##### (Resources used: CSS colour names (http://colours.neilorangepeel.com/)
@@ -77,5 +77,22 @@
     
 **Link to work:**
 
+**Thoughts:** 
+
+------------
+
+### R1D7: September 30, 2018
+##### (Resources used: CSS in 30 Days (https://codecollege.ca/)
+
+**Today's Progress/What I learned**:
+- Learned Intermediate `CSS` practices
+- Learned how to specify & use `box-shadow`
+   - Created a `button` following along Brad Hussey's CSS in 30 Days Course
+    
+**Link to work:**
+![Fancy Buttons](https://codepen.io/DigitalEmanuel/pen/XxbPgg)
 
 **Thoughts:** 
+Many different ways to style a button, its always good to specify styles for each browser.
+
+------------
