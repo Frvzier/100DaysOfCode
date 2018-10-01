@@ -35,7 +35,7 @@ AMA / Follow to see what else im creating!
 ## My Coding Goals
 - Code 1 hour each day
 - Gain a deep understanding of HTML, CSS, JS
-- Learn more about: Sass, React, Node, MongoDB
+- Learn more about: Sass, React, Node, Git
 - Create real-world problem solving projects for my portfolio
 - Become a Front-end Developer in 2019
 
