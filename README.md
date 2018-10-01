@@ -33,7 +33,7 @@ You can interact with me and also see what else I'm creating on:
 ------------
 
 ## My Coding Goals
-- Code 1 hour each day.
+- Code 1 hour each day
 - Gain a deep understanding of HTML, CSS, JS
 - Learn more about: Sass, React, Node, MongoDB
 - Create real-world problem solving projects for my portfolio
