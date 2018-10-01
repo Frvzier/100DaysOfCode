@@ -73,8 +73,8 @@
     - Created a Image Gallery
     
 **Link to work:**
-[Tic Tac Toe](/TTTBoard)
-[Image Board](/ImageBoard)
+- [Tic Tac Toe](/TTTBoard)
+- [Image Board](/ImageBoard)
 
 **Thoughts:** 
 Every element follows a "box model"; content, padding, border & margin are the four which we can manipulate. 
