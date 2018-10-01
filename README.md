@@ -14,7 +14,7 @@ I will code for an hour each day, if I'm viewing a tutorial, I will take what I'
 
 I will document everything that I've worked on each day in the log md.
 
-Official Repo --> [100DaysOfCode](https://github.com/Kallaway/100-days-of-code "the official repo"),
+Official Repo --> [100DaysOfCode](https://github.com/Kallaway/100-days-of-code "the official repo")
 
 ------------
 
