@@ -90,7 +90,7 @@
    - Created a `button` following along Brad Hussey's CSS in 30 Days Course
     
 **Link to work:**
-(https://codepen.io/DigitalEmanuel/pen/XxbPgg)
+[Fancy Buttons](https://codepen.io/DigitalEmanuel/pen/XxbPgg)
 
 **Thoughts:** 
 Many different ways to style a button, its always good to specify styles for each browser.
