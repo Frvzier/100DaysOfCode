@@ -57,10 +57,11 @@ AMA / Follow to see what else im creating!
 | 3  | [FreeCodeCamp ](https://www.freecodecamp.org/) | Interactive learning platform, online community support |
 | 4  | [Code Signal ](https://codesignal.com) | Coding challenges |
 | 5  | [Team Treehouse](https://teamtreehouse.com/) | Beginner/Advanced Courses |
-| 6  | [Dev.to](https://dev.to/) | Online Community (Highly Recommend) |
-| 7  | [Codepen ](https://codepen.io/) | Showcasing projects |
-| 8  | [Edx](https://courses.edx.org/dashboard) | Class-style Learning  |
-| 9  | [Meetup ](https://www.meetup.com/) | Networking |
+| 6  | [Udemy](https://udemy.com/) | Beginner/Advanced Courses |
+| 7  | [Dev.to](https://dev.to/) | Online Community (Highly Recommend) |
+| 8  | [Codepen ](https://codepen.io/) | Showcasing projects |
+| 9  | [Edx](https://courses.edx.org/dashboard) | Class-style Learning  |
+| 10  | [Meetup ](https://www.meetup.com/) | Networking |
 
 ## Courses Completed
 
