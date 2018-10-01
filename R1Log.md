@@ -1,7 +1,7 @@
 
-## R1 Progress Log
+## Progress Log
 
-### Day 1: September 24, 2018
+### R1D1: September 24, 2018
 ##### (Resources used: Colt Steele's Web Dev. Bootcamp (https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
 
 **Today's Progress/What I learned**:
@@ -16,7 +16,7 @@
 
 ------------
 
-### Day 2: September 25, 2018
+### R1D2: September 25, 2018
 ##### (Resources used: Colt Steele's Web Dev. Bootcamp (https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
 
 **Today's Progress/What I learned**:
@@ -42,7 +42,7 @@
 ------------
 
 
-### Day 4: September 27, 2018
+### R1D3: September 27, 2018
 ##### (Resources used: Colt Steele's Web Dev. Bootcamp (https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
 ##### (Resources used: CSS colour names (http://colours.neilorangepeel.com/)
 
@@ -59,7 +59,7 @@
 ------------
 
 
-### Day 5: September 28, 2018
+### R1D4: September 28, 2018
 ##### (Resources used: Colt Steele's Web Dev. Bootcamp (https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
 ##### (Resources used: CSS colour names (http://colours.neilorangepeel.com/)
 
