@@ -75,7 +75,7 @@
     - Created a Image Gallery
     
 **Link to work:**
-[Tic Tac Toe](/TicTacToeBoard)
+[Tic Tac Toe](/TTTBoard)
 
 **Thoughts:** 
 
