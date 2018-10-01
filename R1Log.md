@@ -56,9 +56,6 @@
 
 **Today's Progress/What I learned**:
 -  Began learning `css`, focusing primarily on element, `id` & `class` selectors
-    
-**Link to work:**
-- [Selectors](/selectors.css)
 
 ![Star Selector](http://i65.tinypic.com/wjb69e.png)
 
