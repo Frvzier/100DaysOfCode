@@ -19,7 +19,7 @@
 ##### Resources used: [Colt Steele's Web Dev. Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/)
 
 **Today's Progress/What I learned**:
-- Completed an HTML quiz from http://w3schools.com
+- Completed an HTML quiz from [W3Schools](http://w3schools.com)
 - Learned how to properly utilize attributes and values. 
 
 **Thoughts:**  I have a good understanding of HTML syntax and have the ability to create semantic html webpages from scratch.
