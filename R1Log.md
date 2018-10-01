@@ -73,9 +73,9 @@
 - Learned Intermediate `CSS` practices
     - Created a Tic Tac Toe Board
     - Created a Image Gallery
-    - Created a CSS Blog
     
 **Link to work:**
+-[Tic Tac Toe](/TicTacToeBoard)
 
 **Thoughts:** 
 
