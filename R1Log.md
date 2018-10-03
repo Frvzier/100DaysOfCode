@@ -99,7 +99,7 @@ Every element follows a "box model"; content, padding, border & margin are the f
 Many different ways to style a button, its always good to specify styles for each browser.
 
 ------------
-### R1D7: September 30, 2018
+### R1D7: October 1, 2018
 ##### Resources used: [CSS30 Days](https://codecollege.ca/)
 
 **Today's Progress/What I learned**:
