@@ -108,7 +108,7 @@ Many different ways to style a button, its always good to specify styles for eac
    - Created Typography exapmles following along Brad Hussey's CSS in 30 Days Course
     
 **Link to work:**
-[Fancy Buttons](https://codepen.io/DigitalEmanuel/pen/XxbPgg)
+[Typography](https://codepen.io/DigitalEmanuel/pen/wYMNjM)
 
 **Thoughts:** 
 Need to learn the difference/best practice of size styling in css `rem, em, px`
