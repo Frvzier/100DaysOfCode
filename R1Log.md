@@ -99,3 +99,16 @@ Every element follows a "box model"; content, padding, border & margin are the f
 Many different ways to style a button, its always good to specify styles for each browser.
 
 ------------
+### R1D7: September 30, 2018
+##### Resources used: [CSS30 Days](https://codecollege.ca/)
+
+**Today's Progress/What I learned**:
+- Learned Intermediate `CSS` practices
+- Learned how to specify & use `text-stransform`
+   - Created Typography exapmles following along Brad Hussey's CSS in 30 Days Course
+    
+**Link to work:**
+[Fancy Buttons](https://codepen.io/DigitalEmanuel/pen/XxbPgg)
+
+**Thoughts:** 
+Need to learn the difference/best practice of size styling in css `rem, em, px`
