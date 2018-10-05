@@ -118,5 +118,5 @@ Need to learn the difference/best practice of size styling in css `rem, em, px`
 ### R1D1: October 2, 2018
 
 **Today's Progress/What I learned**:
-- Didn't get to code today :(
+- I Didn't get to code today :(
     - Started reading HTML & CSS by Jon Duckett. Refreshing knowledge of `HTML` structure.
