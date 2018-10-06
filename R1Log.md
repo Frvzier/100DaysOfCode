@@ -6,7 +6,7 @@
 
 **Today's Progress/What I learned**:
 - Learned basic and intermediate `HTML`
-    - Created a `table` with multiple rows, images and links.
+    - Created a `table` with multiple rows, images and link tags.
 
 **Link to work:**
 - [PokeTable](/PokeTable)
