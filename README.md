@@ -10,7 +10,7 @@ The goal of this challenge is to code for at least an hour each day. In the offi
 
 So, I decided to add my little twist to the rule book.
 
-I will code for an hour each day, if I'm viewing a tutorial, I will take what I've learned and either create something from what I learned or recreate the project in my own way, adding new features.
+I will code for an hour each day, if I'm viewing a tutorial, I will take what I have learned and either create something from what I learned or recreate the project in my own way, adding new features.
 
 I will document everything that I have worked on each day in the log md.
 
