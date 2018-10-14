@@ -2,7 +2,7 @@
 ![alt text](http://www.finaldraftdesign.com/wp-content/uploads/2018/04/100DaysofCode_1200x500.jpg)
 
 
-**Main Goal:** ***Code every day for the next 100 days for at least an hour a day.***
+**Main Goal:** ***To Code every day for the next 100 days for at least an hour a day.***
 
 The goal of this challenge is to code for at least an hour each day. In the official rules created by Alexander Kallaway, tutorials and coursework projects are to not be counted...
 
